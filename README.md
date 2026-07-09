@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stackwev development
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me shariararafar123@gmail.com
+- 📫 How to reach me shariararafat456@gmail.com
 
 <!---
 shariarcode/shariarcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
