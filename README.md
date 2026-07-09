@@ -1,73 +1,95 @@
 <h1 align="center">Hi 👋, I'm Shariar Arafat Tamim</h1>
 
 <h3 align="center">
-🚀 Full Stack Web Developer | 🎨 Graphic Designer | 🎬 Multimedia Designer
+Aspiring Full-Stack Web Developer • Graphic Designer • Multimedia Designer
 </h3>
 
 <p align="center">
-I build responsive, user-friendly, and modern web applications using today's web technologies.
-I'm passionate about learning, creating beautiful interfaces, and solving real-world problems through code.
+Passionate about building modern web applications, contributing to open source, and creating beautiful user experiences.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shariarcode&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/shariarcode?label=Followers&style=social"/>
-<img src="https://img.shields.io/github/stars/shariarcode?label=Stars&style=social"/>
+  <a href="https://github.com/shariarcode">
+    <img src="https://komarev.com/ghpvc/?username=shariarcode&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/shariarcode?tab=followers">
+    <img src="https://img.shields.io/github/followers/shariarcode?label=Followers&style=social" />
+  </a>
+  <a href="https://github.com/shariarcode">
+    <img src="https://img.shields.io/github/stars/shariarcode?affiliations=OWNER&style=social" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/MERN-Learner-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI-Designer-purple?style=for-the-badge"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 Bachelor of Business Studies (Accounting)
-
-💻 Passionate Full Stack Web Developer
-
-🎨 Graphic & Multimedia Designer
-
-🌱 Currently learning
-
-- JavaScript (Advanced)
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-
-🚀 Working on personal Full Stack projects
-
-🤝 Open to Open Source collaboration
-
-🎯 Goal
-
-Become a Professional MERN Stack Developer and Software Engineer.
-
-⚡ Fun Fact
-
-I love transforming creative ideas into beautiful and functional websites.
+- 💻 Aspiring Full-Stack Web Developer
+- 🎨 Graphic & Multimedia Designer
+- 🎓 Bachelor of Business Studies (Accounting)
+- 🌱 Currently learning **React.js, Node.js, Express.js & MongoDB**
+- 🚀 Building modern web applications and desktop customization tools
+- 💙 Open Source Contributor
+- 🤝 Open to collaboration on interesting projects
+- 🎯 Goal: Become a Professional Software Engineer
+- ⚡ Always learning new technologies and improving my development skills
 
 ---
 
-# 🌐 Portfolio
+# 🌟 Open Source Contributions
 
-### 🔗 Portfolio Website
+### 🪟 Windhawk
 
-https://shariar-arafat-portfolio.vercel.app
+#### 📊 Internet Speed Meter for Windows Task Manager
+
+Developed and published a **Windhawk** mod that adds a real-time **Internet Speed Meter** directly inside the Windows Task Manager.
+
+### ✨ Features
+
+- 📥 Real-time Download Speed
+- 📤 Real-time Upload Speed
+- ⚡ Lightweight & Optimized
+- 🖥️ Native Task Manager Integration
+- 💙 Open Source Contribution
+
+> This project demonstrates my interest in Windows customization, performance optimization, and open-source software development.
+
+🔗 **View Project:** YOUR_WINDHAWK_LINK
 
 ---
 
-# 📫 Connect With Me
+# 🚀 Featured Projects
 
-📧 Email
+### 🛒 Fusion Gadget
 
-shariararafat456@gmail.com
+Modern E-commerce Website
 
-🌐 Portfolio
+**Tech Used**
 
-https://shariar-arafat-portfolio.vercel.app
+- HTML
+- CSS
+- JavaScript
+- Responsive Design
 
-💻 GitHub
+---
 
-https://github.com/shariarcode
+### 🌐 Personal Portfolio
+
+A modern responsive portfolio showcasing my projects, skills, and experience.
+
+🌍 https://shariar-arafat-portfolio.vercel.app
+
+---
+
+### 💻 HTML • CSS • JavaScript Projects
+
+A collection of responsive frontend projects created while learning modern web development.
 
 ---
 
@@ -76,7 +98,7 @@ https://github.com/shariarcode
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react"/>
 </p>
 
 ### Backend
@@ -85,7 +107,7 @@ https://github.com/shariarcode
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 </p>
 
-### Programming
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=javascript"/>
@@ -99,14 +121,11 @@ https://github.com/shariarcode
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shariarcode&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariarcode&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shariarcode&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariarcode&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -114,121 +133,89 @@ https://github.com/shariarcode
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shariarcode&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shariarcode&theme=algolia&margin-w=15&margin-h=15"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shariarcode&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 # 📊 Contribution Graph
 
-[![Tamim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shariarcode&theme=tokyo-night)](https://github.com/shariarcode)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shariarcode&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 🏆 GitHub Trophies
 
-## 🛒 Fusion Gadget
-
-Modern E-commerce Website
-
-- Responsive Design
-- Product Filtering
-- Modern UI
-- Mobile Friendly
-
----
-
-## 🌐 Personal Portfolio
-
-Professional Portfolio Website
-
-Features
-
-- Responsive Design
-- Dark Theme
-- Smooth Animation
-- Contact Form
-
----
-
-## 📚 HTML CSS Projects
-
-Collection of Frontend Practice Projects
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shariarcode&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
+</p>
 
 ---
 
 # 🌱 Currently Learning
 
-✔ Advanced JavaScript
-
-✔ React.js
-
-✔ Node.js
-
-✔ Express.js
-
-✔ MongoDB
-
-✔ REST API
+- ⚛️ React.js
+- 🟢 Node.js
+- 🚂 Express.js
+- 🍃 MongoDB
+- 🔗 REST APIs
+- 📦 Git & GitHub Best Practices
 
 ---
 
 # 🎯 2026 Goals
 
-✅ Master MERN Stack
-
-✅ Build 30+ Professional Projects
-
-✅ Learn Next.js
-
-✅ Contribute to Open Source
-
-✅ Get a Remote Developer Job
-
-✅ Reach 500+ GitHub Contributions
+- ✅ Master the MERN Stack
+- ✅ Build 30+ Professional Projects
+- ✅ Contribute to More Open Source Projects
+- ✅ Learn Next.js
+- ✅ Improve Data Structures & Algorithms
+- ✅ Get a Remote Software Developer Position
 
 ---
 
-# 📖 What I'm Currently Reading
+# 📚 Currently Exploring
 
-- Clean Code
-- JavaScript Documentation
-- React Documentation
-
----
-
-# 💡 Quote
-
-> "First, solve the problem. Then, write the code."
-
-— John Johnson
+- Modern React Patterns
+- Backend Architecture
+- Authentication & Security
+- Performance Optimization
+- Clean Code Principles
 
 ---
 
-# 🎵 Coding Playlist
+# 📫 Connect With Me
 
-🎧 Lo-Fi
+<p align="left">
+<a href="mailto:shariararafat456@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-🎧 EDM
+<a href="https://github.com/shariarcode">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-🎧 Instrumental
+<a href="https://shariar-arafat-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+</p>
+
+📧 **Email:** shariararafat456@gmail.com
+
+🌐 **Portfolio:** https://shariar-arafat-portfolio.vercel.app
+
+💻 **GitHub:** https://github.com/shariarcode
 
 ---
 
-# 🤝 Let's Connect
+# 💡 Developer Quote
 
-If you have an interesting project, startup idea, or open-source contribution, feel free to connect with me.
+> "Programs must be written for people to read, and only incidentally for machines to execute." — Harold Abelson
 
-⭐ Don't forget to star my repositories if you find them helpful.
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! If you like my work, consider starring my repositories.
+</p>
