@@ -17,20 +17,6 @@ Passionate about crafting fast, modern and user-friendly web applications while 
 
 
 
-
-
-
-
-<h1 align="center">Hi 👋, I'm Shariar Arafat Tamim</h1>
-
-<h3 align="center">
-Aspiring Full-Stack Web Developer • Graphic Designer • Multimedia Designer
-</h3>
-
-<p align="center">
-Passionate about building modern web applications, contributing to open source, and creating beautiful user experiences.
-</p>
-
 <p align="center">
   <a href="https://github.com/shariarcode">
     <img src="https://komarev.com/ghpvc/?username=shariarcode&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
